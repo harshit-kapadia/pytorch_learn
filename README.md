@@ -1,4 +1,4 @@
-This repository records my progress with PyTorch. 
+The notebooks in this repository could be used to familiarize yourself with PyTorch. 
 
 <hr>
 
